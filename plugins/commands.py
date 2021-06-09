@@ -23,14 +23,8 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('🙆🏻‍♂️ Report Bugs', url=f"https://t.me/InFoJosTelGroup"),
-            InlineKeyboardButton('Channel 📢', url=f"https://telegram.me/InFoJosTel")
-            ],[
-            InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/TG_BotList/37"),
-            InlineKeyboardButton('Music 👨‍🎤', url=f"https://t.me/joinchat/7gSUxv6vgQE3M2Fl")
-            ],[
-            InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com/c/ZauteKm")
+            InlineKeyboardButton('🙆🏻‍♂️ Report Bugs', url=f"https://t.me/Smashhackers"),
+            InlineKeyboardButton('Channel 📢', url=f"https://telegram.me/abhi_vilan")   
         ]
     ]
     await m.reply_text(
