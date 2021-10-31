@@ -23,8 +23,9 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url=f"https://t.me/dengerousbots"),
-            InlineKeyboardButton('ᴍʏ Oᴡɴᴇʀ', url=f"https://telegram.me/abhi_vilan")   
+            InlineKeyboardButton('📝Sᴜᴘᴘᴏʀᴛ', url=f"https://t.me/RoyalSupportChat"),
+            InlineKeyboardButton('🔐Uɴᴅᴇʀ Nᴇᴛᴡᴏʀᴋ', url=f"https://telegram.me/abhi_vilan")   
+            InlineKeyboardButton('⬆️Uᴘᴅᴀᴛᴇs', url=f"https://telegram.me/TheRoyalBotS")   
         ]
     ]
     await m.reply_text(
